@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  FreewayAtari.vcxproj -> C:\Users\andrejeller\Desktop\AtariRemake\FreewayAtari\Debug\FreewayAtari.exe
+  FreewayAtari.vcxproj -> C:\Users\andrejeller\Desktop\AtariRemake\FreewayAtari\Debug\FreewayAtari.pdb (Partial PDB)
